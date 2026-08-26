@@ -74,7 +74,7 @@ In Codesupply there are multiple milestones, which you can find here: [Milestone
 
 [Deliverables View](https://github.com/orgs/codesupply-project/projects/5/views/8)
 
-# Roles - How we use the tasks
+# Roles
 
 ## Developer/engineer
 
