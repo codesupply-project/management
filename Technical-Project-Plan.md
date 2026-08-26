@@ -58,9 +58,9 @@ These tasks are something we can assign to one or more persons to work with. The
 
 ### Example tasks
 
-The second work package can be found here: [Software Supply Chain Open Data Catalog](https://github.com/codesupply-project/management/issues/69). You can find the tasks under this work package linked in the description field. 
+The second work package can be found here: [Software Supply Chain Open Data Catalog](https://github.com/codesupply-project/management/issues/69). You can find the tasks under this work package linked in the description field.
 
-An example task is [Create and deploy an open data catalog of code threats consisting of known vulnerabilities and known malicious open source software packages](https://github.com/codesupply-project/management/issues/73). In this tasks you can find:
+One of the listed tasks is [Create and deploy an open data catalog of code threats consisting of known vulnerabilities and known malicious open source software packages](https://github.com/codesupply-project/management/issues/73). In this tasks you can find:
 * "Parent" (just below the title on the left side) - which task it belongs to
 * "Planning" (below Assigness, Labels, Type and Fields to the right). In here you'll find the details described above)
 
