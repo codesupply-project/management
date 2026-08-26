@@ -1,4 +1,4 @@
-# Codesupply project - Technical Project Plan
+# Codesupply - Technical Project Plan
 
 # Work packages
 
