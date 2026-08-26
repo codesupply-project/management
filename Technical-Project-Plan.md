@@ -4,7 +4,7 @@
 
 The Codesupply is managed in the following Github project: https://github.com/orgs/codesupply-project/projects/5.
 
-We have work packages, tasks and sub tasks which are all described below.
+We have work packages, tasks and sub tasks which are all described below. If you want to get an understand using an example, see [Example tasks](#example-tasks).
 
 ## Work packages
 
@@ -56,7 +56,7 @@ The tasks are divided into smaller sub tasks, in which case the issueid is named
 
 These tasks are something we can assign to one or more persons to work with. They are named according to `codesupply-<task number>-<sub task>-<sub sub task>`, e.g. `codesupply-t2-4-2`. Each of these tasks has a parent task (parent issue) which makes it easy for you to find the relationship to the bigger picture.
 
-### Example task
+### Example tasks {#example-tasks}
 
 The second work package can be found here: [Software Supply Chain Open Data Catalog](https://github.com/codesupply-project/management/issues/69). You can find the tasks under this work package linked in the description field. 
 
